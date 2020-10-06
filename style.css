@@ -189,4 +189,7 @@ height: 40px !important;
     .wrapper {
       overflow: hidden;
     }
+    .expla {
+      margin-left: -45px;
+    }
 }
