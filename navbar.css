@@ -1,4 +1,7 @@
-
+* {
+  margin: 0px;
+  padding: 0px;
+}
 .menu {
   float: right;
   transform:scale(0.8)
