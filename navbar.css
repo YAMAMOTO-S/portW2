@@ -1,0 +1,47 @@
+
+.menu {
+  float: right;
+  transform:scale(0.8)
+}
+.navbar a {
+  color: white;
+  font-size: 20px;
+}
+img {
+  width: 50px;
+  height: 50px;
+  margin-left: 10px;
+}
+i {
+  color: white;
+}
+.menu {
+  margin-top: -9px !important;
+}
+.icon-image {
+  width: 30px;
+  height: 30px;
+}
+.logotext img {
+  margin-right: 10px !important;
+}
+
+
+@media screen and (max-width:480px) {
+  .navbar img {
+    width: 40px;
+    height: 40px;
+  }
+  .logotext{
+    margin-top: -10px;
+  }
+  .menu .logotext{
+    margin-top: -5px !important;
+    margin-right: 0px !important;
+    transform: scale(0.5);
+  }
+  .menu {
+    margin-left: -50px;
+  }
+  
+}
